@@ -5,7 +5,6 @@
 ## Contenido
 
 - [Proyecto Java](java-proyecto/): Descripción breve y enlaces relacionados.
-- [Proyecto MySQL](mysql-proyecto/): Descripción breve y enlaces relacionados.
 - [Proyecto C#](csharp-proyecto/): Descripción breve y enlaces relacionados.
 - [Proyecto C++](cplusplus-proyecto/): Descripción breve y enlaces relacionados.
 
